@@ -1,5 +1,6 @@
 # Chromecast-AirportWeather
 Allows user to to change Ambient Mode screen on Chromecast to display live aviation weather maps
+Donatins happily appreciated Venmo: @PwnyDanza01
 
 Initial Setup:
   This script uses Google Photos API to upload images to a designated Google Photos album. Then, using the Google Home app on your phone you can select to display the images in said album. 
