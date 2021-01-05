@@ -24,4 +24,6 @@ Upload.py follows three steps:
   2. Removes images from the album.
   3. Edits jpgs and uploads to the album. (Google Photos API currently does not support deletion/overwriting of photos so this three step process is the workaround)
   
+  Once the script cadence is established, use the Google Home app to display images in Ambient Mode from the album. Tutorial here: https://www.youtube.com/watch?v=UChPS1aU7Qs
+  
   To automate this, I used a Raspberry Pi running Raspbian. The script is ran every 5 minutes using CRON with the command python3 Upload.py
